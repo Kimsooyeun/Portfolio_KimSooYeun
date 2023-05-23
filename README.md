@@ -1,2 +1,5 @@
-# Portfolio_KimSooYeun
- 
+# 팀 프로젝트
+## Project : Suevival
+
+프로젝트 서바이벌은 무인도에서 배를 만들어 탈출하는 내용의 서바이벌 장르 게임입니다. 
+작성자의 코드를 보시고 싶으시다면 "ksy_Script" 파일을 보시면 됩니다.
